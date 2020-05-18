@@ -6,6 +6,9 @@
     <feature name="Device">
         <param name="browser-package" value="Device" />
     </feature>
+    <feature name="BarcodeScanner">
+        <param name="browser-package" value="BarcodeScanner" />
+    </feature>
     <name>last-test-phonegap</name>
     <description>
         Hello World sample application that responds to the deviceready event.
