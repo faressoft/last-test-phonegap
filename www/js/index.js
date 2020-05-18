@@ -34,6 +34,7 @@ var app = {
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         alert(cordova)
+        alert(cordova.plugin)
         alert(cordova.plugins)
         app.receivedEvent('deviceready');
     },
