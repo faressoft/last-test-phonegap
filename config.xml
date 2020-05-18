@@ -11,7 +11,6 @@
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
-    <preference name="android-minSdkVersion" value="14" />
     <preference name="phonegap-version" value="cli-9.0.0" />
     <plugin name="cordova.plugins.diagnostic" />
     <plugin name="phonegap-plugin-barcodescanner" />
