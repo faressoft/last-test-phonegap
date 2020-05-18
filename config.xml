@@ -12,6 +12,7 @@
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="27" />
+    <engine name="android" spec="https://github.com/apache/cordova-android.git#6.3.0" />
     <plugin name="cordova.plugins.diagnostic" />
     <plugin name="phonegap-plugin-barcodescanner" />
     <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1" />
